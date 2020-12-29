@@ -9,7 +9,7 @@
 |  7  	| Psikolog Nusantara - web portal to find local psychologists  | Laravel, Bootstrap           |   https://psikolognusantara.com/        	|
 |  8  	| Sipdinsos - web application report data on social conditions of society  | Laravel, Bootstrap           |   http://sipdinsos.com/       	|
 |  9  	| Progress Fasindo - web application to report house construction conditions  | Laravel, Bootstrap           |         	|
-
+|  10  	| Diagnos Penyakit Bayi - specialist diagnosis system in newborns  | Laravel, Bootstrap           |         	|
 
 
 
